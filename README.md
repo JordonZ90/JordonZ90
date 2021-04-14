@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JordonZ90, Jordon Z.
 - 👀 I’m interested in growing my skills in software development
 - 🌱 I’m currently learning C#/Net and Python
-- 💞️ I’m looking to collaborate on aanything. I gotta learn it all
+- 💞️ I’m looking to collaborate on anything. I gotta learn it all
 - 📫 You can reach me at jordonzoellner@gmail.com
 
 <!---
